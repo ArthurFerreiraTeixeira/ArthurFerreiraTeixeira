@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Engenharia de Software UCB<br>A procura de estagio desenvolvedor Front-end<br>Media da faculdade 9<br>Tenho alguns cursos de desenvolvedor Front-end pela plataforma Alura<br>Outros cursos estão em desenvolvimento<br><br>A procura de uma oportunidade!<br>
+Formado em Engenharia de Software pela Universidade Católica. Minhas principais linguagens são JavaScript e TypeScript, desenvolvendo aplicações front-end com React e back-end com Node.js. Sou apaixonado por tecnologia e estou sempre em busca de evoluir minhas habilidades!<br>
 
 
 ## 🌐 Socials:
