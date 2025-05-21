@@ -3,12 +3,12 @@
 🎓 Formado em Engenharia de Software  
 📚 Atualmente cursando Pós-graduação em Desenvolvimento de Aplicações Java  
 💻 Desenvolvedor Fullstack em constante evolução  
-🚀 Trabalhando em projetos pessoais para evoluir minhas habilidades  
+🚀 Trabalhando em projetos pessoais para evoluir mues conhecimentos
 
 ### 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-Arthur%20Ferreira-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ArthurFerreiraTeixeira)
-[![Email](https://img.shields.io/badge/-arthur2003teixeira@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arthur2003teixeira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Arthur%20Ferreira-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-ferreira-351013288/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arthur2003teixeira@gmail.com)
 
 ---
 
@@ -26,3 +26,4 @@
 
 ![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurFerreiraTeixeira&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurFerreiraTeixeira&layout=compact&theme=tokyonight)
+
